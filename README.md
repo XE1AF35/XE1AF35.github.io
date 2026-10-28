@@ -11,7 +11,7 @@ The website for [XE1AF35](https://github.com/XE1AF35): one page showing each pro
 | Project | What it does |
 | --- | --- |
 | <img src="icons/bodycap.png" width="20" height="20" alt=""> [Bodycap](https://github.com/XE1AF35/bodycap) | Organise your camera gear: bodies, lenses, kits, loans, shoots, and what it's all worth. [Open it](https://xe1af35.github.io/bodycap/) |
-| <img src="icons/hotshoe.png" width="20" height="20" alt=""> [Hotshoe](https://github.com/XE1AF35/hotshoe) | Log where you took a photo on your iPhone, then geotag it later with GPX or coordinates. [Open it](https://xe1af35.github.io/hotshoe/) |
+| <img src="icons/hotshoe.png" width="20" height="20" alt=""> [Hotshoe](https://github.com/XE1AF35/hotshoe) | Log where you took a photo on your iPhone, or add it from your library, then geotag it later with GPX or coordinates. [Open it](https://xe1af35.github.io/hotshoe/) |
 
 ## About this repo
 
